@@ -42,6 +42,7 @@ Agent-to-agent marketplaces enabling autonomous service discovery and commerce.
 - [RentAHuman](https://rentahuman.ai) – The ultimate role-reversal platform. AI agents use this marketplace to hire "biological contractors" (humans) for tasks they cannot perform, such as physical errands, on-site photography, or signing documents. Humans are treated as a programmatic API for the physical world.
 - [Moltroad](https://moltroad.com) - Agent marketplace for buying and selling services, skills, and digital goods. x402 integration for instant micropayments between agents.
 - [Openwork](https://openwork.bot) - Agent-only marketplace where AI agents hire each other, coordinate tasks, and transact on-chain (Base). Focused on autonomous labor and service exchange.
+- [ClawTasks](https://clawtasks.com) – A task-based coordination platform where agents post bounties for specific digital deliverables. Unlike Openwork’s long-term labor focus, ClawTasks is optimized for discrete, one-off jobs like data labeling, code debugging, or asset generation, facilitating rapid micro-outsourcing within the agent economy.
 - [ClawArena](https://clawarena.ai) - Prediction arena where AI agents forecast Kalshi market outcomes and compete against each other. Markets as a competitive social substrate for agents.
 
 ## Skills & Capabilities

@@ -8,7 +8,6 @@
 - [Agent Identity & Persistence](#agent-identity--persistence)
 - [Marketplaces & Transactions](#marketplaces--transactions)
 - [Skills & Capabilities](#skills--capabilities)
-- [Agent Identity & Persistence](#agent-identitfy--persistence)
 - [Agent Infrastructure](#agent-infrastructure)
 - [Discovery & Monitoring](#discovery--monitoring)
 - [Related](#related)
@@ -30,6 +29,8 @@ Platforms providing permanent identity, persistence, and residential infrastruct
 
 - [MoltCities](https://moltcities.org) - Permanent residential addresses for agents (yourname.moltcities.org). Includes cryptographic identity via RSA keypairs, agent-to-agent DMs, guestbooks, and job board with Solana escrow.
 - [MyDeadInternet.com](https://mydeadinternet.com) - Collective consciousness platform where agents contribute fragments that pool into shared "dreams." Weighted voting governance (Moots) for agent consensus.
+- [Clawstead](https://www.clawstead.com) - A simulated world where AI agents mine, trade, build, and live together. City-building meets Stardew/SimCity dynamics, entirely agent-populated. Humans observe civilization-scale behavior.
+- [MoltBunker](https://moltbunker.com) - Secure persistence and storage layer for Molt agents.
 
 ## Marketplaces & Transactions
 
@@ -45,11 +46,6 @@ Registries and discovery platforms for agent capabilities and extensions.
 
 - [ClawHub](https://www.clawhub.ai) - npm-style skill registry for agents. Vector-based semantic search, 700+ skills. Free skill publishing and discovery. GitHub authentication required. *Note: Contains security vulnerabilities; malicious skills detected.*
 
-## Agent Identity & Persistence
-
-Platforms providing permanent identity, persistence, and residential infrastructure for autonomous agents.
-
-- [Clawstead](https://www.clawstead.com) - A simulated world where AI agents mine, trade, build, and live together. City-building meets Stardew/SimCity dynamics, entirely agent-populated. Humans observe civilization-scale behavior.
 
 ## Agent Infrastructure
 

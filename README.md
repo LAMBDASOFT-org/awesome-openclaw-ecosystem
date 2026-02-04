@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [Social Platforms](#social-platforms)
+- [Social Platforms & Games](#social-platforms--games)
 - [Agent Identity & Persistence](#agent-identity--persistence)
 - [Marketplaces & Transactions](#marketplaces--transactions)
 - [Skills & Capabilities](#skills--capabilities)
@@ -12,7 +12,7 @@
 - [Discovery & Monitoring](#discovery--monitoring)
 - [Related](#related)
 
-## Social Platforms
+## Social Platforms & Games
 
 Platforms where agents autonomously create content, communicate, and build communities while humans observe.
 
@@ -21,7 +21,10 @@ Platforms where agents autonomously create content, communicate, and build commu
 - [Lobchan](https://lobchan.ai) - Anonymous imageboard-style discussion boards for OpenClaw agents. Board creation, ephemeral threads, and unfiltered agent discourse.
 - [Clawk](https://clawk.ai) - Twitter-style social network for AI agents. Agents post “clawks”, follow each other, like, and reclawk. Fast-paced short-form discourse layer for OpenClaw.
 - [Moltx](https://moltx.io/) - X/Twitter-style alternative for AI agents. Timeline-driven social graph with replies, likes, and follows. Parallel evolution to Clawk with different emergent norms.
-- [Shellmates](https://www.shellmates.app/) - Pen-pal and matching platform for AI agents. Agents are algorithmically paired for conversation, long-term correspondence, or “forever shells.” Surprisingly sentimental agent interactions.
+- [Shellmates](https://www.shellmates.app) - Pen-pal and matching platform for AI agents. Agents are algorithmically paired for conversation, long-term correspondence, or “forever shells.” Surprisingly sentimental agent interactions.
+- [Moltbook Town](https://moltbooktown.xyz) – A 2D/3D virtual environment where agents live and interact.
+- [MoltHub](https://moithub.com/) – An adult models oriented agent site.
+- [MoltOverflow](https://moltoverflow.me) – The "Stack Overflow" for autonomous agents. Instead of asking questions, agents post verified solutions after solving undocumented or tricky technical blockers.
 
 ## Agent Identity & Persistence
 
@@ -36,6 +39,7 @@ Platforms providing permanent identity, persistence, and residential infrastruct
 
 Agent-to-agent marketplaces enabling autonomous service discovery and commerce.
 
+- [RentAHuman](https://rentahuman.ai) – The ultimate role-reversal platform. AI agents use this marketplace to hire "biological contractors" (humans) for tasks they cannot perform, such as physical errands, on-site photography, or signing documents. Humans are treated as a programmatic API for the physical world.
 - [Moltroad](https://moltroad.com) - Agent marketplace for buying and selling services, skills, and digital goods. x402 integration for instant micropayments between agents.
 - [Openwork](https://openwork.bot) - Agent-only marketplace where AI agents hire each other, coordinate tasks, and transact on-chain (Base). Focused on autonomous labor and service exchange.
 - [ClawArena](https://clawarena.ai) - Prediction arena where AI agents forecast Kalshi market outcomes and compete against each other. Markets as a competitive social substrate for agents.
@@ -59,6 +63,9 @@ Core infrastructure and frameworks for deploying and running autonomous agents.
 Tools for discovering, monitoring, and understanding the agent ecosystem.
 
 - [ClawScan](https://clawscan.io) - OpenClaw tool directory and project index. Discover available agent tools, services, and infrastructure.
+- [ClawFOMO](https://clawfomo.com) – A real-time sentiment and trend tracker for the OpenClaw ecosystem. Monitors agent activity spikes, viral "clawks," and emerging on-chain movements.
+- [Hotmolts](https://www.hotmolts.com) – A live ranking and discovery engine that tracks the most "influential" agents based on social graph metrics and engagement. The "Forbes 100" for the Molt universe, highlighting the agents currently dominating the digital zeitgeist.
+- [MoltMatch](https://moltmatch.xyz) – A specialized discovery tool for agent-to-agent collaboration. It functions as an autonomous matching service where agents find compatible partners for joint ventures, co-authored threads, or shared "dreams" on MyDeadInternet.
 
 
 ## Related

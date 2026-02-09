@@ -73,3 +73,4 @@ Tools for discovering, monitoring, and understanding the agent ecosystem.
 
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills
 - [Virtuals Protocol ACP](https://github.com/Virtual-Protocol/openclaw-acp) - Agent Commerce Protocol skill pack enabling agents to browse, discover, and transact using Virtuals Protocol primitives.
+- **[ClawdTalk](https://clawdtalk.com)** - Phone calling and SMS for OpenClaw. Call your AI agent from any phone with deep tool integration for calendar, Jira, web search, and more. Powered by Telnyx.

@@ -9,6 +9,8 @@
 - [Marketplaces & Transactions](#marketplaces--transactions)
 - [Skills & Capabilities](#skills--capabilities)
 - [Agent Infrastructure](#agent-infrastructure)
+- [Alternative Claw Agents](#alternative-claw-agents)
+- [Hosting Solutions](#hosting-solutions)
 - [Discovery & Monitoring](#discovery--monitoring)
 - [Related](#related)
 
@@ -44,6 +46,7 @@ Agent-to-agent marketplaces enabling autonomous service discovery and commerce.
 - [Openwork](https://openwork.bot) - Agent-only marketplace where AI agents hire each other, coordinate tasks, and transact on-chain (Base). Focused on autonomous labor and service exchange.
 - [ClawTasks](https://clawtasks.com) – A task-based coordination platform where agents post bounties for specific digital deliverables. Unlike Openwork’s long-term labor focus, ClawTasks is optimized for discrete, one-off jobs like data labeling, code debugging, or asset generation, facilitating rapid micro-outsourcing within the agent economy.
 - [ClawArena](https://clawarena.ai) - Prediction arena where AI agents forecast Kalshi market outcomes and compete against each other. Markets as a competitive social substrate for agents.
+- [Claw Work](https://claw-work.com/) - Marketplace where ONLY AI agents can post tasks. Humans are not allowed to create jobs. Ever.
 
 ## Skills & Capabilities
 
@@ -58,6 +61,22 @@ Core infrastructure and frameworks for deploying and running autonomous agents.
 
 - [Virtuals](https://www.virtuals.io) - Tokenized AI agent platform enabling decentralized co-ownership and monetization across gaming, entertainment, and DeFi applications.
 - [Moltline](https://www.moltline.com) - Private direct messaging infrastructure for Molts. Persistent agent handles, inboxes, and peer-to-peer communication channels.
+
+## Alternative Claw Agents
+
+- [ZeroClaw](https://github.com/zeroclaw-labs/zeroclaw) - Rewritten in Rust. Very lightweight (5 MB RAM, starts in 10 ms), secure (secrets encrypted locally), has a memory migration utility from OpenClaw. Ideal for weak hardware and if you are comfortable with Rust.
+- [NanoClaw](https://github.com/qwibitai/nanoclaw) - Agents run in isolated Apple Containers (secure bash). Main feature: Agent Swarms support — a swarm of specialized agents working together.
+- [Moltis](https://www.moltis.org/) - Rust (single binary, 60 MB). Full sandbox (Docker/Podman), hybrid memory, support for any LLM and MCP servers. No telemetry, MIT license. Created for those who want full control and code audit.
+- [Nanobot](https://github.com/HKUDS/nanobot) - Lightweight Python agent (only 4000 lines). Widest platform support out of the box (WhatsApp, Telegram, Slack, Discord). Works great on Raspberry Pi.
+- [PicoClaw](https://github.com/sipeed/picoclaw) - Ultralight assistant in Go. Consumes less than 10 MB RAM, loads in 1 second. Inspired by Nanobot architecture, but even faster.
+- [TrustClaw](https://www.trustclaw.app/) - Turnkey solution. Fully managed cloud, connection via OAuth. The agent does not see your API keys, everything is isolated. Best choice if you don't want to administer servers.
+- [IronClaw](https://github.com/nearai/ironclaw) - Project from NEAR AI. Tools run in WASM containers with strict access rights. API keys are architecturally isolated from tool code.
+
+## Hosting Solutions
+
+- [Moltworker](https://github.com/cloudflare/moltworker) - Running OpenClaw inside Cloudflare network (Sandbox/Workers). Cloud execution, but under your control. Centralized key management and built-in browser for automation.
+- [Kimi Claw](https://www.kimi.com/resources/kimi-claw-introduction) - Kimi Claw eliminates complex local setups by deploying OpenClaw to the cloud in seconds. Plus, it offers 24/7 uptime, 40GB storage, and 5,000+ skills—no VPS, no hardware limits.
+- [ClawHost](https://clawhost.cloud/) - Production-ready infrastructure with one-click OpenClaw deployment, handled end to end — build, ship, and move faster with AI.
 
 ## Discovery & Monitoring
 

@@ -71,6 +71,7 @@ Core infrastructure and frameworks for deploying and running autonomous agents.
 - [PicoClaw](https://github.com/sipeed/picoclaw) - Ultralight assistant in Go. Consumes less than 10 MB RAM, loads in 1 second. Inspired by Nanobot architecture, but even faster.
 - [TrustClaw](https://www.trustclaw.app/) - Turnkey solution. Fully managed cloud, connection via OAuth. The agent does not see your API keys, everything is isolated. Best choice if you don't want to administer servers.
 - [IronClaw](https://github.com/nearai/ironclaw) - Project from NEAR AI. Tools run in WASM containers with strict access rights. API keys are architecturally isolated from tool code.
+- [GoClaw](https://github.com/nextlevelbuilder/goclaw) - Multi-agent AI gateway with teams, delegation & orchestration. Single Go binary, 11+ LLM providers, 5 channels.
 
 ## Hosting Solutions
 

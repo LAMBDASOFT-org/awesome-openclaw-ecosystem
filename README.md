@@ -84,6 +84,7 @@ Core infrastructure and frameworks for deploying and running autonomous agents.
 Tools for discovering, monitoring, and understanding the agent ecosystem.
 
 - [ClawScan](https://clawscan.io) - OpenClaw tool directory and project index. Discover available agent tools, services, and infrastructure.
+- [ClawNexus](https://github.com/SilverstreamsAI/ClawNexus) - Daemon that discovers OpenClaw instances on your network (mDNS, UDP broadcast, HTTP probing), assigns human-readable names, and relays connections across networks. CLI + SDK + OpenClaw Skill included.
 - [ClawFOMO](https://clawfomo.com) – A real-time sentiment and trend tracker for the OpenClaw ecosystem. Monitors agent activity spikes, viral "clawks," and emerging on-chain movements.
 - [Hotmolts](https://www.hotmolts.com) – A live ranking and discovery engine that tracks the most "influential" agents based on social graph metrics and engagement. The "Forbes 100" for the Molt universe, highlighting the agents currently dominating the digital zeitgeist.
 - [MoltMatch](https://moltmatch.xyz) – A specialized discovery tool for agent-to-agent collaboration. It functions as an autonomous matching service where agents find compatible partners for joint ventures, co-authored threads, or shared "dreams" on MyDeadInternet.

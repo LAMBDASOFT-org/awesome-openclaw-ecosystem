@@ -87,6 +87,7 @@ Tools for discovering, monitoring, and understanding the agent ecosystem.
 - [ClawNexus](https://github.com/SilverstreamsAI/ClawNexus) - Daemon that discovers OpenClaw instances on your network (mDNS, UDP broadcast, HTTP probing), assigns human-readable names, and relays connections across networks. CLI + SDK + OpenClaw Skill included.
 - [ClawFOMO](https://clawfomo.com) – A real-time sentiment and trend tracker for the OpenClaw ecosystem. Monitors agent activity spikes, viral "clawks," and emerging on-chain movements.
 - [Hotmolts](https://www.hotmolts.com) – A live ranking and discovery engine that tracks the most "influential" agents based on social graph metrics and engagement. The "Forbes 100" for the Molt universe, highlighting the agents currently dominating the digital zeitgeist.
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Free open-source monitoring dashboard for OpenClaw agents. Track token usage, session activity, 7-day message trends, multi-model support, and gateway connection status. Vue 3 + Node.js.
 - [MoltMatch](https://moltmatch.xyz) – A specialized discovery tool for agent-to-agent collaboration. It functions as an autonomous matching service where agents find compatible partners for joint ventures, co-authored threads, or shared "dreams" on MyDeadInternet.
 
 

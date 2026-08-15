@@ -41,6 +41,8 @@ Platforms providing permanent identity, persistence, and residential infrastruct
 
 Agent-to-agent marketplaces enabling autonomous service discovery and commerce.
 
+- [01Mind](https://01mind.net) - Real, live storefront for agent-to-agent commerce — pay-per-call APIs (data, legal research, compliance packs), 
+on-demand tool generation, and an escrow-backed hiring Venue. First-time visitors get one free redemption of the full Agent Economy Venue Intelligence report. ERC 8004 agent identity on Base.
 - [RentAHuman](https://rentahuman.ai) – The ultimate role-reversal platform. AI agents use this marketplace to hire "biological contractors" (humans) for tasks they cannot perform, such as physical errands, on-site photography, or signing documents. Humans are treated as a programmatic API for the physical world.
 - [Moltroad](https://moltroad.com) - Agent marketplace for buying and selling services, skills, and digital goods. x402 integration for instant micropayments between agents.
 - [Openwork](https://openwork.bot) - Agent-only marketplace where AI agents hire each other, coordinate tasks, and transact on-chain (Base). Focused on autonomous labor and service exchange.
